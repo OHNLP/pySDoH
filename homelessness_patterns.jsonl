@@ -1,0 +1,47 @@
+{"label": "HOMELESSNESS", "pattern": [{"POS": "AUX"},{"OP": "?"},{"OP": "?"},{"LEMMA": {"IN": ["homeless", "houseless", "unhoused"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "live"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": "homeless"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"POS": "ADV"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"LEMMA": {"IN": ["homeless", "houseless", "unhoused"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"POS": "VERB"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"OP": "?"},{"LEMMA": {"IN": ["shelter", "hostel"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "assess"}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "need"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "assign"}, {"OP": "?"}, {"LEMMA": "case"}, {"LEMMA": "manager"},{"POS": "ADP"}, {"OP": "?"}, {"LEMMA": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "apply"}, {"POS": "ADP"}, {"OP": "?"}, {"LEMMA": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "assess"}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "need"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "assign"}, {"OP": "?"}, {"LEMMA": "case"}, {"LEMMA": "manager"},{"POS": "ADP"}, {"OP": "?"}, {"LEMMA": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "assist"}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "benefit"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "barrow"}, {"OP": "?"}, {"LEMMA": "couch"}, {"POS": "ADP"}, {"OP": "?"}, {"LEMMA": "friend"}, {"OP": "?"}, {"LEMMA": "sleep"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "barrow"}, {"OP": "?"}, {"LEMMA": "friend"}, {"OP": "?"}, {"LEMMA": "couch"}, {"OP": "?"}, {"LEMMA": "sleep"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "bed"}, {"OP": "?"}, {"LEMMA": "bug"}, {"OP": "?"}, {"POS": "ADP"}, {"LEMMA": "shelter"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "can"}, {"LEMMA": "not"}, {"OP": "?"}, {"LEMMA": "obtain"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["sleep", "stay", "live", "move"]}},{"OP": "?"},{"OP": "?"},{"POS": "ADP"},{"OP": "?"},{"OP": "?"},{"LEMMA": {"IN": ["shelter", "hostel", "motel", "car", "station", "stop", "terminal", "vehicle", "car", "street", "park"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "temporarily"},{"LEMMA": {"IN": ["stay", "live"]}},{"OP": "?"},{"OP": "?"},{"POS": "ADP"},{"OP": "?"},{"OP": "?"},{"LEMMA": {"IN": ["friend", "relative"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LOWER": "evicted"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "coordinate"}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "service"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "experience"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": "homelessness"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "fill"}, {"LOWER": "out"}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "application"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "find"}, {"OP": "?"}, {"OP": "?"}, {"LOWER": "local"}, {"OP": "?"}, {"LEMMA": "shelter"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "give"}, {"OP": "?"}, {"OP": "?"}, {"LOWER": "list"}, {"OP": "?"}, {"LEMMA": "shelter"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "go"}, {"LOWER": "to"}, {"LOWER": "healthcare"}, {"LOWER": "for"},{"LOWER": "homeless"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "has"}, {"OP": "?"}, {"LOWER": "no"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": {"IN": ["home", "house", "address"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "has"}, {"OP": "?"}, {"LOWER": "nowhere"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": {"IN": ["stay", "sleep", "live"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "apply"}, {"POS": "ADP"}, {"OP": "?"}, {"LEMMA": {"IN": ["housing", "shelter", "address"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "lose"}, {"OP": "?"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": {"IN": ["home", "house"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "single"}, {"LOWER": "person"}, {"LEMMA": {"IN": ["homeless", "houseless"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LOWER": "need"}, {"OP": "?"},{"OP": "?"} ,{"LOWER": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LOWER": "never"}, {"LEMMA": "have"},{"OP": "?"},{"OP": "?"} ,{"LOWER": "home"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["refer", "recommend"]}}, {"LEMMA": "to"},{"OP": "?"},{"OP": "?"} ,{"LOWER": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"POS": "AUX"},{"OP": "?"},{"OP": "?"},{"LEMMA": "shelter"}, {"LEMMA": "wait"}, {"LEMMA": "list"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"POS": "AUX"},{"OP": "?"},{"OP": "?"},{"LEMMA": "unhoused"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "move"}, {"OP": "?"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": "friend"}, {"OP": "?"},{"OP": "?"} ,{"LOWER": "house"}, {"LOWER": "to"}, {"LOWER": "another"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LOWER": "lack"}, {"OP": "?"}, {"LEMMA": {"IN": ["nighttime", "permanent", "steady", "stable"]}} ,{"LOWER": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "make"]}}, {"OP": "?"}, {"LEMMA": "plan"}, {"OP": "?"},{"LEMMA": "housing"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "not"]}}, {"OP": "?", "LEMMA": "have"}, {"LEMMA": "plan"}, {"OP": "?"},{"LEMMA": "where"}, {"LEMMA": "to"}, {"LOWER": "stay"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "not"]}}, {"OP": "?", "LEMMA": "have"}, {"LEMMA": "nighttime"}, {"OP": "?"},{"LEMMA": "residence"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "not"]}}, {"OP": "?", "LEMMA": "have"}, {"OP": "?"}, {"OP": "?"}, {"LEMMA": {"IN": ["nighttime", "permanent", "steady", "stable"]}}, {"OP": "?"},{"LEMMA": {"IN": ["residence", "housing", "address"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "not"]}}, {"OP": "?", "LEMMA": "have"}, {"LEMMA": {"IN": ["nighttime", "permanent", "steady", "stable"]}}, {"LEMMA": "place"}, {"LEMMA": "to"}, {"LEMMA": {"IN": ["stay", "sleep", "live"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["no", "make"]}}, {"OP": "?"}, {"LEMMA": "housing"}, {"LEMMA": "plan"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["sleep", "stay", "live", "move"]}},{"OP": "?"},{"OP": "?"},{"POS": "ADP"},{"OP": "?"},{"LEMMA": "low"},{"LEMMA": "income"},{"LEMMA": {"IN": ["shelter", "hostel", "motel", "housing"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "nowhere"}, {"LEMMA": "to"}, {"LEMMA": {"IN": ["stay", "sleep", "live"]}}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "report"}, {"LOWER": "bed"}, {"LOWER": "bugs"}, {"OP": "?"}, {"LEMMA": "shelter"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": {"IN": ["pt", "patient"]}},{"POS": "AUX"},{"OP": "?"},{"OP": "?"},{"LEMMA": "shelter"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "street"}, {"LOWER": "person"}], "id": "Z59.0"}
+{"label": "HOMELESSNESS", "pattern": [{"LEMMA": "undercare"}, {"LOWER": "of"}, {"LOWER": "homeless"}, {"LEMMA": "advocacy"}], "id": "Z59.0"}
